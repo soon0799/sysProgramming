@@ -1,0 +1,7 @@
+중간고사 예상문제
+리눅스에서 도움말을 얻는 명령어 3가지를 기술하시오.
+man info --help
+
+job.alio.go.kr
+job.cleaneye.go.kr
+career.sw.or.kr
